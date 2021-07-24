@@ -25,8 +25,8 @@ Hope You Will Like It and you can also use the code to make your own version.
 
 ---
 ## Demo
-<img src="Demo.png">
+<img src="https://user-images.githubusercontent.com/53147926/126858619-255efa2e-da44-474c-b5b2-c19a5e3a73ed.png">
 
-<img src="Demo1.png">
+<img src="https://user-images.githubusercontent.com/53147926/126858615-e6b65121-95b3-4d1a-9d69-501b7a3bf35e.png">
 
-<img src="Demo2.png">
+<img src="https://user-images.githubusercontent.com/53147926/126858618-195c5847-01c2-4f26-a8b2-3303f37e3a68.png">
